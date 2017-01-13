@@ -1,0 +1,10 @@
+"[F] means _____ in the representation of female gender(a) Female  (b) Male >>pls input a or b"
+"Insert the missing number in the given sequence>> 8,24,12,36,18,54,__ (a)108 (b)27 (c)68 (d)72"
+"In a two digit number, if it is known that it's unit's digit exceeds it's ten's digit by 2,\nand that the product of the given number and the sum of it's digits is equal to 144, then the number is ____ (a)24 (b)26 (c)42 (d)46 "
+"Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number  (a)3 (b)10 (c)17 (d)20
+"The sum of two numbers is 25,and their difference is 13. Find thier product (a)104 (b)114 (c)315 (d)325|
+"Ayesha's father was 38 years of age when she was born while her mother was 36years old when her brother who is FOUR YEARS YOUNGER TO HER WAS BORN. What is the difference between the ages of her parent??\n(a)2years (b)4years (c)6years (d)8years|"
+"What was the day of the week 28th May 2006?(a)Thursday (b)Friday (c)Saturday(d)Sunday"
+A is two years older than B who is twice as old as C.How old is B, IF!! the total of the ages of A,B,C is 27(a)7 (b)8 (c)9 (d)10 (e)11
+A table is essential for which of theses games?(a)Pool (b)Golf (c)Cricket (d)Ice Hockey
+Which of these countries does not have an atlantic coastline?(a)Canada (b)Brazil (c)Japan(d)France
